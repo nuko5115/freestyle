@@ -1,0 +1,27 @@
+.wrap
+{
+    max-width: 980px; 
+    margin: 90px auto 0;
+}
+.wrap .timer
+{
+    font-size: 5rem;
+
+    text-align: center;
+}
+.wrap .btnWrap
+{
+    margin-top: 15px; 
+
+    text-align: center;
+}
+.wrap .btnWrap .start,
+.wrap .btnWrap .stop
+{
+    font-size: 2rem;
+
+    padding: 5px 10px;
+
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
